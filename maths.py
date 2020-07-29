@@ -1,4 +1,10 @@
 #do the difference of the ages
+print('''
+=============================================================================
+The code takes 2 peoples ages in whichever order and finds their differences!
+=============================================================================
+''')
+
 print("Give the ages for the 2 people you want to find their ages:")
 pers1 = int(input())
 
