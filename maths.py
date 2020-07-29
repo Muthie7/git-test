@@ -4,6 +4,7 @@ pers1 = int(input())
 
 pers2 = int(input())
 
+
 if pers1 == pers2:
     print('The 2 persons are of the same age')
 elif pers1 < pers2:
